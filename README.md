@@ -1,1 +1,1 @@
-# FIFA-WC-1934-2013-Visualization-using-Seaborn
+In this project, we have partnered with Twitch’s Science Team, working with two training tables that contain Twitch users’ stream viewing data and chat room usage data. The project is broken down into two parts: Analyze Data with SQL and Visualize Data with Matplotlib.
